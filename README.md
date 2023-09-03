@@ -3,7 +3,6 @@
 
 Olá! Meu nome é Guilherme sou um estudante de Ciência da Computação que tem um grande interesse pela resolução de problemas e exploração de novas tecnologias. Dedicado a aperfeiçoar minhas habilidades de programação.
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiLerrme&theme=dark&show_icons=true)
 
 <div style="display: inline_block"><br>
